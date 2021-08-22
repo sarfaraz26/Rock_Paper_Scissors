@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body
+{
+    background-color: rebeccapurple;
+    font-family: 'Acme', sans-serif;
+}
+
+.underline
+{
+    height: 2px;
+    width: 10%;
+    background-color:white;
+    margin: 0 auto;
+}
+
+#rock, #paper, #scissor, #end, #reset
+{
+    cursor: pointer;
+}
